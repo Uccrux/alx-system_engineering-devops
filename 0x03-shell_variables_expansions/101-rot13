@@ -1,2 +1,2 @@
 #!/bin/bash
-te 'A-za-z' 'N-ZA-Mn-za-m'
+te 'A-Za-z' 'N-ZA-Mn-za-m'
