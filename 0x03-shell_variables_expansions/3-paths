@@ -1,2 +1,2 @@
-#!/bin/bashi
-echo $((`echo $PATH | grep -o ":/" | wc -l`+ 1))
+#!/bin/ibash
+echo $((`echo $PATH | grep -o ":/" | wc -l`+ 1)
