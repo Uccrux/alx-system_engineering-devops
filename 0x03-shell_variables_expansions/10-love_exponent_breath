@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv $ ((BREATH**LOVE))
+echo $ ((BREATH**LOVE))
